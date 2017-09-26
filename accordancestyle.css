@@ -1,0 +1,235 @@
+*{
+	padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.blue{
+    color: #839aaa;
+}
+.whitet{
+    display: inline-block;
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.bluet{
+    display: inline-block;
+    color: lightskyblue;
+    font-size: 13px;
+    margin-left: 15px;
+}
+.greyt{
+    display: inline-block;
+    color: grey;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.wrapper{
+    width: 970px;
+    height: 1300px;
+}
+.header{
+    width: 910px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: 1px solid #D4D3D3;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7f7f6+0,e0e0e0+100 */
+    background: #f7f7f6; /* Old browsers */
+    background: -moz-linear-gradient(top, #f7f7f6 0%, #e0e0e0 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f7f7f6 0%,#e0e0e0 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f7f7f6 0%,#e0e0e0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f6', endColorstr='#e0e0e0',GradientType=0 ); /* IE6-9 */
+}
+.menu_icon1{
+    height: 56px;
+    display: inline-block;
+    vertical-align: top;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.header h3{
+    display: inline-block;
+    vertical-align: top;
+    padding: 18px 28px;
+    margin-right: -5px;
+    font-size: 16px;
+    border: 1px solid #DBDADA;
+}
+.search{
+    border: 1px solid #DBDADA;
+    height: 25px;
+    width: 170px;
+    display: inline-block;
+    margin-left: 107px;
+    margin-top: 14px;
+    border-radius: 50px;
+    background-color: white;
+}
+.menu_icon2{
+    height: 25px;
+    margin-left:145px;
+}
+.ad{
+    width: 910px;
+    height: 425px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.adpic{
+    width: 910px;
+    vertical-align: middle;
+}
+.adbar{
+    width: inherit;
+    height: 40px;
+    background-color: #474747;
+    margin-top: -5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; 
+}
+.browse{
+    border: 1px solid #e5e7e6;
+    width: 911px;
+    height: 470px;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 5px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f2f2f2+100 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #f2f2f2 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%,#f2f2f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+}
+.discover{
+    padding: 20px 0px;
+    border: 1px solid #e5e7e6;
+}
+.discover h1{
+    display: inline;
+    color: #CDD3D0;
+    font-size: 33px;
+    font-weight: normal;
+    margin-left: 20px;
+}
+.discover button{
+   display: inline; 
+   width: 150px;
+   color: white;
+   height: 45px;
+   width: 275px;
+   font-size: 18px;
+   margin-left: 30px;
+   border-radius: 5px;
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5c96bb+0,407192+99 */
+    background: #5c96bb; /* Old browsers */
+    background: -moz-linear-gradient(top, #5c96bb 0%, #407192 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #5c96bb 0%,#407192 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #5c96bb 0%,#407192 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c96bb', endColorstr='#407192',GradientType=0 ); /* IE6-9 */
+}
+.previews{
+    width: inherit;
+    height: 333px;
+    border-bottom: 1px solid #e5e7e6;
+}
+.info{
+    height: 275px;
+    width: 203px;
+    display: inline-block;
+    margin-right: -3px;
+    margin-left: -1px;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-bottom:30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-right: 1px solid #e5e7e6;
+}
+.info h4{
+    display: inline;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+}
+.info p{
+    font-size: 12px;
+    margin-top: 19px;
+    margin-bottom: 5px;
+}
+.info button{
+    color:white;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#60b2ef+0,5ba4db+100 */
+    background: #60b2ef; /* Old browsers */
+    background: -moz-linear-gradient(top, #60b2ef 0%, #5ba4db 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #60b2ef 0%,#5ba4db 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #60b2ef 0%,#5ba4db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60b2ef', endColorstr='#5ba4db',GradientType=0 ); /* IE6-9 */
+}
+.icon{
+    display: inline-block;
+    height: 25px;
+    margin-left: 32px;
+    position: relative;
+    top: 5px;
+}
+.watch{
+    width: 200px;
+}
+.taketour{
+    width: 200px;
+    margin-bottom: 21px;
+}
+.trial{
+    width: 200px;
+    margin-bottom: 13px;
+}
+.products{
+    width: 200px;
+    margin-bottom:25px;
+}
+.navigation{
+    width: 910px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.navsub{
+    width: 137px;
+    height: inherit;
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.navsublast{
+    width: 137px;
+    height: inherit;
+    display: inline-block;
+    vertical-align: top;
+}
+.list{
+    border-top: 1px solid #e5e7e6;
+}
+.list h6{
+    font-weight: normal;
+    margin-top: 10px;
+    font-size: 11px;
+}
+h5{
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.footer{
+    width: 910px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-top: 20px;
+    font-weight: normal;
+    border-top: 1px solid #e5e7e6;
+}
